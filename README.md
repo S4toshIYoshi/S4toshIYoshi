@@ -1,6 +1,5 @@
-
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DFDFDF&center=true&vCenter=true&width=435&lines=Hello+World!+welcome+to+my+profile" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+welcome+to+my+profile" alt="Typing SVG" /></a>
 	<h2>Satoshi</h2>
 	<h3>Frontend developer</h3>
 
@@ -13,7 +12,9 @@
 
 
 ![](https://komarev.com/ghpvc/?username=S4toshIYoshi)
-[![codewars](https://www.codewars.com/users/Dery456/badges/micro)](https://www.codewars.com/users/Dery456) 
+[![codewars](https://www.codewars.com/users/Dery456/badges/micro)](https://www.codewars.com/users/Dery456)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/memphisusr)
+
 
 </div>
 
@@ -64,5 +65,4 @@
 [![codewars](https://www.codewars.com/users/Dery456/badges/large)](https://www.codewars.com/users/Dery456)
 
 </div>
-
 
