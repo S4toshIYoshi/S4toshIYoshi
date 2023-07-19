@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-<h4>About me</h4>
+<h2>About me</h2>
 	<p>I am a traine front-end developer from Russia. Now I'm studying TypeScript, Next js. Looking for a job. I also have something to show, see my projects.</p>
 
 
@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-	<h4>My projects</h4>
+	<h2>My projects</h2>
 	<a href="https://s4toshiyoshi.github.io/MovieAPP/">Move app</a>
 	<p>stack: React, React, reactRouter, base hooks, lib carusel, API kinopoisk, SCSS, bootsTrap 5.1</p>
 	<a href="https://github.com/S4toshIYoshi/client-eCom">ecommerce client</a>
@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-<h4 align="center">Other</h4>
+<h2 align="center">Other</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
