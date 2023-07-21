@@ -60,8 +60,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4toshIYoshi)](https://github.com/S4toshIYoshigithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4toshIYoshi)](https://github.com/S4toshIYoshi/github-readme-stats)
 [![codewars](https://www.codewars.com/users/Dery456/badges/large)](https://www.codewars.com/users/Dery456)
 
 </div>
